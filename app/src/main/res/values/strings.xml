@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="btn_jogar">Jogar</string>
+    <string name="btn_jogarnovamente">JOGAR NOVAMENTE</string>
+    <string name="quiz">Quiz</string>
+    <string name="acertou">Acertou! Sua potuação: </string>
+    <string name="errou">Errou! Sua pontuação: </string>
+    <string name="image_positive">Imagem positivo</string>
+    <string name="image_negative">Imagem negativo</string>
+    <string name="mensagem">Toque na pergunta e vá para próxima pergunta!</string>
+
+    <!-- Perguntas do Quiz -->
+    <string name="pergunta1">A única estrela localizada acima da inscrição ordem e progresso corresponde a qual estado brasileiro?</string>
+    <string name="pergunta2">Como se chama o tercido que reveste a superfície e as cavidades do nosso corpo?</string>
+    <string name="pergunta3">Que gás compõe 3/4 da atmosfera terrestre?</string>
+    <string name="pergunta4">A linha do Equador divide a terra em dois hemisférios, que são?</string>
+    <string name="pergunta5">No sistema de numeração romano, qual o significado do símbolo L?</string>
+    <string name="pergunta6">A que país pertence a Groelândia?</string>
+    <string name="pergunta7">Qual o nome dado á força de atração que a terra exerce sobre todos os corpos?</string>
+    <string name="pergunta8">Pablo Picasso foi um dos principais fundadores de qual movimento artístico?</string>
+    <string name="pergunta9">Qual o polígono em que o número de diagonais é igual ao número de lados?</string>
+    <string name="pergunta10">Qual dessas classes gramaticas não varia em gênero, masculino quanto no feminino?</string>
+    <string name="pergunta11">Qual é o órgão do sistema respiratório onde ocorrem as trocas gasosas?</string>
+    <string name="pergunta12">Quantos dias tem um ano bissexto?</string>
+    <string name="pergunta13">São exemplos de adjetivos, exceto?</string>
+    <string name="pergunta14">Tarsila do Amaral era uma?</string>
+    <string name="pergunta15">Qual é a classificação dada ao medicamento obtido exclusivamente da matéria-prima vegetal?</string>
+
+    <!-- Alternativas opçcão A -->
+    <string name="alternativaA1">Distrito Federal</string>
+    <string name="alternativaA2">Tecido conjutivo</string>
+    <string name="alternativaA3">Nitrogêngio</string>
+    <string name="alternativaA4">Sul e Leste</string>
+    <string name="alternativaA5">50</string>
+    <string name="alternativaA6">Islândia</string>
+    <string name="alternativaA7">Força de repulsão</string>
+    <string name="alternativaA8">Surrealismo</string>
+    <string name="alternativaA9">Retângulo</string>
+    <string name="alternativaA10">Substantivo</string>
+    <string name="alternativaA11">Alvéolos</string>
+    <string name="alternativaA12">355 dias</string>
+    <string name="alternativaA13">Beleza</string>
+    <string name="alternativaA14">Artista plastica</string>
+    <string name="alternativaA15">Alopático</string>
+
+    <!-- Alternativas opçcão B -->
+    <string name="alternativaB1">Tocantins</string>
+    <string name="alternativaB2">Tecido nervoso</string>
+    <string name="alternativaB3">Oxigênio</string>
+    <string name="alternativaB4">Setentrional e Meridoinal</string>
+    <string name="alternativaB5">100</string>
+    <string name="alternativaB6">Noruega</string>
+    <string name="alternativaB7">Força centrífuga</string>
+    <string name="alternativaB8">Cubismo</string>
+    <string name="alternativaB9">Pentágono</string>
+    <string name="alternativaB10">Adjetivo</string>
+    <string name="alternativaB11">Traqueia</string>
+    <string name="alternativaB12">365 dias</string>
+    <string name="alternativaB13">Exuberante</string>
+    <string name="alternativaB14">Escritora</string>
+    <string name="alternativaB15">Fitoterápico</string>
+
+    <!-- Alternativas opçcão C -->
+    <string name="alternativaC1">Pará</string>
+    <string name="alternativaC2">Tecido epidelial</string>
+    <string name="alternativaC3">Hidrogênio</string>
+    <string name="alternativaC4">Setenrional e Ocidental</string>
+    <string name="alternativaC5">1000</string>
+    <string name="alternativaC6">Canadá</string>
+    <string name="alternativaC7">Força gravitacional</string>
+    <string name="alternativaC8">Expressionismo</string>
+    <string name="alternativaC9">Octógono</string>
+    <string name="alternativaC10">Verbo</string>
+    <string name="alternativaC11">Laringe</string>
+    <string name="alternativaC12">356 dias</string>
+    <string name="alternativaC13">Belo</string>
+    <string name="alternativaC14">Música</string>
+    <string name="alternativaC15">Homeopático</string>
+
+    <!-- Alternativas opçcão D -->
+    <string name="alternativaD1">Acre</string>
+    <string name="alternativaD2">Tecido muscular</string>
+    <string name="alternativaD3">Hélio</string>
+    <string name="alternativaD4">Leste e Ocidental</string>
+    <string name="alternativaD5">500</string>
+    <string name="alternativaD6">Dinamarca</string>
+    <string name="alternativaD7">Força eletrodinâmica</string>
+    <string name="alternativaD8">Impressionismo</string>
+    <string name="alternativaD9">Hexágono</string>
+    <string name="alternativaD10">Artigo</string>
+    <string name="alternativaD11">Brónquios</string>
+    <string name="alternativaD12">366 dias</string>
+    <string name="alternativaD13">Esbelto</string>
+    <string name="alternativaD14">Pintora</string>
+    <string name="alternativaD15">Genérico</string>
+
+</resources>
