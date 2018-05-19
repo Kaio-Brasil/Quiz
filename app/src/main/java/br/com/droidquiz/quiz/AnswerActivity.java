@@ -41,7 +41,7 @@ public class AnswerActivity extends AppCompatActivity {
                 @Override
                 public void run() {
                     try {
-                        Thread.sleep(2000);
+                        Thread.sleep(1000);
                     } catch (InterruptedException ex) {
                         ex.printStackTrace();
                     }
@@ -52,9 +52,12 @@ public class AnswerActivity extends AppCompatActivity {
         } else {
             btnJogarNovamente.setVisibility(View.VISIBLE);
 
-            if(mPontuacao >= 6) {
+            if(mPontuacao >= 7) {
                 resposta.setText("Parabéns, você fez "+mPontuacao+" pontos!");
                 imgResposta.setImageResource(R.mipmap.ic_launcher_feliz);
+            } else if(mPontuacao >= 4 && mPontuacao <= 6) {
+                resposta.setText("Moderado, você fez "+mPontuacao+" pontos!");
+                imgResposta.setImageResource(R.mipmap.ic_launcher_pensativo);
             } else {
                 resposta.setText("Péssimo, você fez "+mPontuacao+" pontos!");
                 imgResposta.setImageResource(R.mipmap.ic_launcher_triste);

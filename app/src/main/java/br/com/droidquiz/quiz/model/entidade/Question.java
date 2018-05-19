@@ -1,4 +1,4 @@
-package br.com.droidquiz.quiz;
+package br.com.droidquiz.quiz.model.entidade;
 
 import java.util.ArrayList;
 import java.util.List;

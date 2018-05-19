@@ -10,9 +10,10 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
+
+import br.com.droidquiz.quiz.model.entidade.Question;
 
 public class QuizActivity extends AppCompatActivity {
     private TextView pergunta;
@@ -115,7 +116,7 @@ public class QuizActivity extends AppCompatActivity {
     }
 
     private void atualizarPergunta() {
-        if(questao.size() >= 5) {
+        if(questao.size() > 5) {
             pergunta.setText(questao.get(indicePergunta).getPergunta());
             List<Integer> altenativasLista = questao.get(indicePergunta).getAlternativas();
             Collections.shuffle(altenativasLista);
